@@ -1,12 +1,1 @@
-<html>
-    <body>
-        
-        
-        
-    </body>   
-    
-    
-    
-    
-    
-</html>
+<?php echo "Woohooo"; ?>
